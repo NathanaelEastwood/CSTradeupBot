@@ -1,0 +1,5 @@
+{
+  "Steam_Market_Search_Address": "https://steamcommunity.com/market/listings/730",
+  "DB_Server" : "localhost",
+  "DB_Port" : "1433"
+}
